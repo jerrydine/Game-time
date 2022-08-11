@@ -1,0 +1,53 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 700px;
+  margin: auto;
+  text-align: center; 
+
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+
+h1{
+  margin: 30px;
+  font: 3rem cursive;
+  color: rgb(97, 128, 97);
+}
+
+p{
+  font: 2rem cursive;
+  color: rgb(17, 24, 10);
+}
+
+img{
+  max-width: 60%;
+
+}
+
+footer{
+  font: 1rem cursive;
+  color: maroon;
+  text-align: center;
+}
+ 
+button{
+  display: block;
+  text-align: center;
+  margin: auto;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(97, 128, 97);
+  color: white;
+  
+}
